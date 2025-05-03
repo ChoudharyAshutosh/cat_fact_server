@@ -10,7 +10,7 @@ First you will need to install modules, go to root of the project and run:
 npm install
 
 # OR using Yarn
-yarn yarn
+yarn install
 ```
 
 ## Step 2: Start Metro
